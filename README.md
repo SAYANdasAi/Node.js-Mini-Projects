@@ -2,6 +2,18 @@
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. It allows developers to use JavaScript to write server-side scripts, producing dynamic web page content before the page is sent to the user's browser.
 
+## Steps to Download and Run the GitHub Repository
+
+Follow the steps below to download and run the [Node.js-Mini-Projects](https://github.com/SAYANdasAi/Node.js-Mini-Projects.git) repository.
+
+### Clone the Repository
+
+Open your terminal and run the following command to clone the repository to your local machine:
+
+```bash
+git clone https://github.com/SAYANdasAi/Node.js-Mini-Projects.git
+```
+
 ## Table of Contents
 
 - [What is Node.js?](#what-is-nodejs)
